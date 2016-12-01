@@ -1,4 +1,4 @@
-* URL: `/&lt;probe_id%gt;/&lt;cap_id&gt;/&lt;target_ip&gt;`
+* URL: `/<probe_id>/<cap_id>/<target_ip>`
 * Method: `GET`
 * Input (Parameters):
   * `probe_id` - Probe ID (see https://github.com/Fusl/intrace/wiki/Probes-API-(probes.json))
