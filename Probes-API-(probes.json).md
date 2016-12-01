@@ -1,8 +1,9 @@
-* Method: GET
+* URL: `/probes.json`
+* Method: `GET`
 * Input (Parameters):
   * -
 * Output (Response):
-  * Format: json
+  * Format: `json`
   * Syntax: (Object)
     * "{Probe ID (32 char 0-9a-f string)}": (Object)
       * "country": (String) "{Country Name}"
