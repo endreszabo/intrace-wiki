@@ -1,4 +1,4 @@
-#intrace API and config reference
+# intrace API and config reference
 
 ## API reference
 * [[Execution API|Execution-API]]
