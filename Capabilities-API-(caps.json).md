@@ -1,7 +1,6 @@
 * URL: `/caps.json`
 * Method: `GET`
-* Input (Parameters):
-  * none
+* Input (Parameters): -
 * Output (Response):
   * Format: `json`
   * Syntax: (Object)
