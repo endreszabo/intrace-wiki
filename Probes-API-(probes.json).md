@@ -1,7 +1,7 @@
 * URL: `/probes.json`
 * Method: `GET`
 * Input (Parameters):
-  * -
+  * none
 * Output (Response):
   * Format: `json`
   * Syntax: (Object)
