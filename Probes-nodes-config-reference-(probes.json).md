@@ -7,6 +7,7 @@
 		"provider": "{provider name - e.g. Hurricane Electric}",
 		"asnumber": {as number - e.g. 6939},
 		"host": "{ssh username and hostname - e.g. root@uslax.yourserver.tld}",
+		"port": "{ssh port number, defaults to 22 if omitted}",
 		"group": "{group name - e.g. North america}",
 		"residential": {boolean, true if this probe is a residential connection (end user, DSL connection, etc.), false if not},
 		"caps": {
